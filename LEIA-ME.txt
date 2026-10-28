@@ -1,0 +1,27 @@
+SITE DRA. CÍNTIA NASCIMENTO · O QUE FALTA PREENCHER
+===================================================
+
+Montado a partir do Instagram @dra.cintianascimento (nome, CRO 117296, especialidades e redes).
+Endereço, WhatsApp e fotos não estão públicos, então ficaram como espaços para preencher.
+
+1. WHATSAPP (obrigatório)
+   - No index.html, troque 55DDDNUMERO pelo número completo (ex.: 5511999998888).
+     Aparece em 5 botões.
+   - Na seção Contato, troque [(DDD) 9XXXX-XXXX] pelo número formatado.
+
+2. ENDEREÇO E MAPA
+   - Troque [Rua, número, bairro, cidade/UF] pelo endereço real.
+   - No mapa, troque ENDERECO+DA+CLINICA pelo endereço com + no lugar dos espaços.
+
+3. CRO
+   - No rodapé, troque [UF] pelo estado do CRO (ex.: CRO-SP 117296).
+
+4. FOTOS (deixam o site muito mais forte)
+   - img/dra-cintia.jpg: foto vertical da doutora (topo do site)
+   - img/consultorio.jpg: foto do consultório (seção Sobre)
+   Os comentários no HTML mostram exatamente qual linha trocar.
+
+5. TEXTOS
+   - Formação e especializações da Dra. Cíntia (seção Sobre, itens entre colchetes).
+   - Horário de atendimento e formas de pagamento (Contato e Dúvidas).
+   - Peça para a doutora revisar as descrições dos tratamentos.
